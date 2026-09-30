@@ -26,7 +26,7 @@ Mechanizm reagowania na odblokowanie telefonu jest obecnie w fazie dalszych test
 
 ## GitHub Pages
 
-Planowany adres strony:
+Strona publiczna:
 
 ```text
 https://yaqbik84.github.io/Slowo-showcase/
@@ -34,7 +34,13 @@ https://yaqbik84.github.io/Slowo-showcase/
 
 ## Demo Android
 
-Publiczne demo przez Appetize zostanie dodane po uruchomieniu strony prezentacyjnej i wgraniu zweryfikowanego APK.
+Publiczne demo korzysta z Appetize i uruchamia SŁOWO 0.1.0 na wirtualnym urządzeniu Android.
+
+Aktualny link demo:
+
+```text
+https://appetize.io/app/android/pl.slowo.app?device=pixel7&osVersion=13.0&toolbar=true
+```
 
 ## Prywatność
 
