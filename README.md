@@ -1,14 +1,13 @@
-# SŁOWO Showcase
+# SŁOWO
 
-Publiczna strona prezentacyjna aplikacji **SŁOWO** na Androida.
+Publiczna prezentacja aplikacji **SŁOWO** — minimalistycznej aplikacji chrześcijańskiej na Androida.
 
-## Cel repozytorium
+**Strona projektu:** https://yaqbik84.github.io/Slowo-showcase/  
+**Demo Android:** https://appetize.io/app/android/pl.slowo.app?device=pixel7&osVersion=13.0&toolbar=true
 
-To repozytorium zawiera wyłącznie publiczną warstwę prezentacyjną projektu. Pełny kod źródłowy aplikacji Android pozostaje w prywatnym repozytorium.
+## O aplikacji
 
-## Aplikacja
-
-SŁOWO 0.1.0 to minimalistyczna aplikacja chrześcijańska, której celem jest prezentowanie krótkiego fragmentu związanego z czytaniami liturgicznymi danego dnia.
+SŁOWO ma prezentować krótki fragment związany z czytaniami liturgicznymi danego dnia i pomagać wracać do niego w wybranych momentach dnia.
 
 Wersja bazowa oferuje:
 
@@ -20,34 +19,12 @@ Wersja bazowa oferuje:
 - działanie offline,
 - brak kont, reklam i analityki.
 
-Aktualne dane są demonstracyjne. Docelowe źródło treści liturgicznych dla Polski zostanie ustalone przed publicznym wydaniem produkcyjnym.
+## Status
 
-Mechanizm reagowania na odblokowanie telefonu jest obecnie w fazie dalszych testów i nie jest traktowany jako funkcja gwarantowana na każdym urządzeniu.
+Aktualna wersja bazowa: **0.1.0**. Dane liturgiczne są obecnie demonstracyjne; docelowe źródło treści dla Polski zostanie ustalone przed wydaniem produkcyjnym.
 
-## GitHub Pages
-
-Strona publiczna:
-
-```text
-https://yaqbik84.github.io/Slowo-showcase/
-```
-
-## Demo Android
-
-Publiczne demo korzysta z Appetize i uruchamia SŁOWO 0.1.0 na wirtualnym urządzeniu Android.
-
-Aktualny link demo:
-
-```text
-https://appetize.io/app/android/pl.slowo.app?device=pixel7&osVersion=13.0&toolbar=true
-```
+Mechanizm reagowania na odblokowanie telefonu pozostaje funkcją wymagającą dalszych testów i nie jest obecnie gwarantowany na każdym urządzeniu.
 
 ## Prywatność
 
-Publiczne repozytorium nie zawiera:
-
-- kodu źródłowego aplikacji Android,
-- kluczy podpisujących,
-- haseł ani tokenów,
-- prywatnych danych użytkowników,
-- konfiguracji środowiska developerskiego.
+To repozytorium zawiera wyłącznie publiczną warstwę prezentacyjną. Prywatny kod źródłowy, konfiguracja środowiska, klucze i dane użytkowników nie są publikowane.
